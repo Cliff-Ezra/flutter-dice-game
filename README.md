@@ -73,7 +73,9 @@ To run the Flutter application, follow these steps:
 
 Below is a screenshot of the application, showcasing its UI and functionality:
 
-![Application Screenshot](assets/readme/app_screenshot.png)
+<div align="center">
+    <img src="assets/readme/app_screenshot.png" width="400" height="800" alt="Application Screenshot">
+</div>
 
 ---
 
