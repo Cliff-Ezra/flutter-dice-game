@@ -1,10 +1,10 @@
-# Flutter Project Guide
+# Flutter Dice Application
 
 This README provides a comprehensive guide to this Flutter project, covering everything from project setup to detailed explanations of Dart's core concepts. The application demonstrates a simple dice roller implemented in Dart(Flutter), allowing a user to roll the dice using a button and having the dice face change randomly.
 
 ## Table of Contents
 
-- [Flutter Project Guide](#flutter-project-guide)
+- [Flutter Dice Application](#flutter-dice-application)
   - [Table of Contents](#table-of-contents)
   - [Project Setup](#project-setup)
   - [Understanding `main.dart`](#understanding-maindart)
